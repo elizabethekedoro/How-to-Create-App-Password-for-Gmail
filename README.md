@@ -60,10 +60,11 @@ Type "App passwords" into the search bar and select it from the results when it 
 Google will display your 16- digit App Password, copy it and click Done: <br/>
 <img src="https://github.com/user-attachments/assets/a51825f8-6280-492e-870c-bd5021509c97" height="70%" width="70%" alt="How to Create Gmail App Password Steps"/> </p> 
 <p align="center">
-Ensure to store your app password securely for subsequent use. <br/>
-<br />
+Ensure to store your app password or save in a notepad securely for subsequent use. <br/>
 <br />
 
+## 🎉 Congratulations!
+You have successfully setup your Google App password.
 
 **If you are working on the Gophish project, return to the platfom and paste the App Password into the Password field.**
 <br />
