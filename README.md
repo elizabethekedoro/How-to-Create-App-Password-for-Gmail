@@ -50,11 +50,25 @@ Type "App passwords" into the search bar and select it from the results when it 
 <br />
 <br />
 <br />
-  Enter a recognizable name for the application or project, then select Create: <br/>
+  Enter a recognizable name for the application or project, then click Create: <br/>
 <img src="https://github.com/user-attachments/assets/56ff20ee-20c6-4a4b-9cab-7ea115a1bd0a" height="70%" width="70%" alt="How to Create Gmail App Password Steps"/>  <br/>
  (for this demonstration, I used Gophish because the App Password will be used for the authorized phishing simulation). <br/>
 <br />
 <br />
+
+<p align="center">
+Google will display your 16- digit App Password, copy it and click Done: <br/>
+<img src="https://github.com/user-attachments/assets/a51825f8-6280-492e-870c-bd5021509c97" height="70%" width="70%" alt="How to Create Gmail App Password Steps"/> </p> 
+<p align="center">
+Ensure to store your app password securely for subsequent use. <br/>
+<br />
+<br />
+
+
+**If you are working on the Gophish project, return to the platfom and paste the App Password into the Password field.**
+<br />
+<br />
+
 
 ##  Video walkthrough
 * Coming soon!
