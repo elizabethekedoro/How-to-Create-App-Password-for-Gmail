@@ -23,13 +23,13 @@ Sign in to your Google account <br/>
 <br />
 <p align="center">
 Click your profile picture: <br/>
-<img src="https://imgur.com/l3krs0d.png" height="80%" width="80%" alt="Generating-a-Gmail-App-PasswordSteps"/>
+<img src="https://github.com/user-attachments/assets/c8ca86fb-fb5f-41cb-a616-3946fae74764" height="70%" width="70%" alt="How to Create Gmail App Password Steps"/>
 <br />
 <br />
 
 <p align="center">
 Select Manage your Google Account: <br/>
-<img src="https://imgur.com/l3krs0d.png" height="80%" width="80%" alt="Generating-a-Gmail-App-PasswordSteps"/>
+<img src="https://github.com/user-attachments/assets/f8f18dc3-7a07-41e1-9f09-aa6290e67697" height="70%" width="70%" alt="How to Create Gmail App Password Steps"/>
 <br />
 <br />
 
