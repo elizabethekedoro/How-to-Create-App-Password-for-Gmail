@@ -70,7 +70,8 @@ You have successfully setup your Google App password.
 <br />
 <br />
 
-To return to the Gophih documentation walk through, click <a href="https://github.com/elizabethekedoro/Gophish-Windows-Setup-Guide/edit/main/README.md" target="_blank">Here</a>
+**To return to the Gophish documentation walk through, click** <a href="https://github.com/elizabethekedoro/Gophish-Windows-Setup-Guide/edit/main/README.md" target="_blank">Here</a>
+
 
 
 ##  Video walkthrough
