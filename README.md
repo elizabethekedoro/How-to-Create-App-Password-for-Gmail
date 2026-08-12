@@ -91,6 +91,6 @@ You have successfully setup your Google App password.
 
 **Made with so much ❤️ by Elizabeth Ekedoro**
 
-*Use responsibly.*
+*Use responsibly. Use ethically.*
 
 </div>
