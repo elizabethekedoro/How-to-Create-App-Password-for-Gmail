@@ -75,12 +75,13 @@ Ensure to store your app password or save in a notepad securely for subsequent u
 ## 🎉 Congratulations!
 You have successfully setup your Google App password.
 
-**If you are working on the Gophish project, return to the platfom and paste the App Password into the Password field.**
+> **If you are working on the Gophish project, return to the platfom and paste the App Password into the Password field.**
 <br />
 <br />
 
 **To return to the Gophish documentation walk-through, click** <a href="https://github.com/elizabethekedoro/Gophish-Windows-Setup-Guide" target="_blank">Here</a>
 
+<br/>
 
 
 ##  Video walkthrough
