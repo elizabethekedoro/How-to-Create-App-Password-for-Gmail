@@ -66,6 +66,12 @@ Google will display your 16- digit App Password, copy it and click Done: <br/>
 Ensure to store your app password or save in a notepad securely for subsequent use. <br/>
 <br />
 
+## 📌 Note
+
+> **The App password displayed above is a placeholder; never share your app password publicly.**
+
+<br />
+
 ## 🎉 Congratulations!
 You have successfully setup your Google App password.
 
